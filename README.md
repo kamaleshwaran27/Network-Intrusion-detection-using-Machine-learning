@@ -1,3 +1,4 @@
+app: https://network-intrusion-detection-using-machine-learning-x2n2osmjtw8.streamlit.app/
 # Network Intrusion Detection Using Machine Learning
 
 ## 📌 Project Overview
